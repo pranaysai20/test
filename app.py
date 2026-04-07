@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 print("i am test")
-=======
 print("HELLO DEV")
->>>>>>> dev
+print("HELLO test2")
