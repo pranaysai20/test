@@ -5,3 +5,5 @@ class test
         System.out.println("i am test");
     }
 }
+class java 
+    system.out.println("i am dev")
